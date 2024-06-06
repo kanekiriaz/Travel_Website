@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Kufam:wght@500&display=swap');
+.images{
+    width: 70%;
+    height:475px;
+    top: 728px;
+    left: 79px;
+    gap: 23px;
+    margin: 40px;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.image2{
+    width: 284px;
+    height: 475px;
+    gap: 0px;
+    border-radius: 10px;
+    opacity: 0px;
+    
+}
+.context{
+    width: 553px;
+height: 47px;
+top: 176px;
+left: 921px;
+gap: 0px;
+opacity: 0px;
+
+    font-family: Kufam;
+font-size: 36px;
+font-weight: 500;
+line-height: 46.8px;
+text-align: left;
+
+}
